@@ -1,0 +1,17 @@
+                                                CLASS 74
+                                               -----------
+
+node.js will allow us to write Javascript outside the browser.
+To view any project we must have an Expo CLI server running for that project.
+expo-start is sued to start running the server.
+To install 'expo-cli' we use npm install expo-cli --global.
+To check the node version we have to use the command: node -- version.
+All the libraries that we used in snack come as node packages called as npm.
+cd is a command used to navigate between different folders.
+
+Full forms:-
+
+cwd = cureent working directory.
+pwd = present working directory.
+npm = node package manager.
+cd = change directory
